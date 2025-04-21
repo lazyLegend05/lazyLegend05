@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Aadi Shah
 
-<!--
-**lazyLegend05/lazyLegend05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at Iowa State University, with a minor in Business and an interest in Artificial Intelligence.
 
-Here are some ideas to get you started:
+💼 I'm passionate about building practical software solutions — from full-stack apps to financial modeling tools. I enjoy turning ideas into code and bringing projects to life with clean design and scalable architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Currently working on:
+- 💸 **Cynance** – a smart personal finance app (Java | Spring Boot | Android)
+- 📈 **Apex Predict** – sentiment-based stock market predictor using Alpha Vantage API, VADER & GPT
+- 📊 **Neo4j University Graph** – transforming relational database into interactive graph systems
+
+🛠️ Tools & Technologies:
+- **Languages**: Java, Python, SQL, JavaScript  
+- **Frameworks**: Spring Boot, React, Android  
+- **Databases**: MariaDB, Firebase, Neo4j  
+- **Other**: Git, REST APIs, WebSockets, Streamlit, Dash
+
+🌱 Learning:
+- AI & ML fundamentals (Transformers, model training)
+- Advanced Database Systems (B+ Trees, Query Optimization)
+- System Testing (RestAssured, Espresso)
+
+📫 Let's connect:  
+[LinkedIn](https://www.linkedin.com/in/aadi-shah-cs/) | [Email Me](mailto:aadishah1605@gmail.com)
+
+---
+
+⭐ Check out my pinned repositories below to see what I’ve been building!
+
